@@ -1,0 +1,14 @@
+{
+  "name": "ai-agents",
+  "author": "rjmurillo",
+  "description": "Coordinated multi-agent system for software development: 23+ specialized agents (orchestrator, architect, QA, security, devops) with ADR governance, session protocols, and cross-session memory.",
+  "repository": "https://github.com/rjmurillo/ai-agents",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["multi-agent", "claude-code", "orchestrator", "software-development", "governance", "adr", "devops", "code-review", "mcp", "session-protocol"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

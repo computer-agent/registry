@@ -1,0 +1,24 @@
+{
+  "name": "agent-flow",
+  "author": "patoles",
+  "description": "Real-time visualization of Claude Code and Codex agent orchestration \u2014 watch agents think, branch, and coordinate as an interactive node graph.",
+  "repository": "https://github.com/computer-agent/agent-flow",
+  "version": "0.8.1",
+  "category": "developer-tools",
+  "tags": [
+    "claude-code",
+    "codex",
+    "visualization",
+    "agent-orchestration",
+    "debugging",
+    "vscode-extension",
+    "developer-tools"
+  ],
+  "license": "Apache-2.0",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": [
+    "claude-code",
+    "system-prompt"
+  ],
+  "icon": false
+}

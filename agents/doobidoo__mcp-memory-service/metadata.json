@@ -1,0 +1,14 @@
+{
+  "name": "mcp-memory-service",
+  "author": "doobidoo",
+  "description": "Self-hosted persistent memory backend for AI agent pipelines — REST API, MCP, OAuth 2.1, knowledge graph, semantic search, autonomous consolidation.",
+  "repository": "https://github.com/doobidoo/mcp-memory-service",
+  "version": "10.66.1",
+  "category": "developer-tools",
+  "tags": ["memory", "mcp", "knowledge-graph", "langchain", "crewai", "autogen", "semantic-search", "self-hosted"],
+  "license": "Apache-2.0",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

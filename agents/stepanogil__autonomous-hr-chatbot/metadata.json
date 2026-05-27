@@ -1,0 +1,14 @@
+{
+  "name": "autonomous-hr-chatbot",
+  "author": "stepanogil",
+  "description": "Autonomous HR assistant that answers employee queries using policy retrieval, employee data analysis, and a calculator — powered by GPT and LangChain.",
+  "repository": "https://github.com/stepanogil/autonomous-hr-chatbot",
+  "version": "1.0.0",
+  "category": "customer-support",
+  "tags": ["hr", "chatbot", "langchain", "openai", "rag", "pinecone", "streamlit", "employee-tools", "policy-retrieval", "autonomous-agent"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

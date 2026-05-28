@@ -1,0 +1,14 @@
+{
+  "name": "second-brain-agent",
+  "author": "flepied",
+  "description": "Personal Knowledge Management AI agent that indexes markdown notes, PDFs, YouTube videos, and web pages into a vector DB and answers questions via MCP.",
+  "repository": "https://github.com/flepied/second-brain-agent",
+  "version": "0.7.0",
+  "category": "productivity",
+  "tags": ["personal-knowledge-management", "second-brain", "langchain", "chromadb", "mcp", "rag", "notes", "obsidian"],
+  "license": "GPL-3.0",
+  "model": "openai:gpt-4o",
+  "adapters": ["system-prompt", "openai"],
+  "icon": false,
+  "banner": false
+}

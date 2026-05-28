@@ -1,0 +1,14 @@
+{
+  "name": "rn-prerelease-audit",
+  "author": "bharmalhusen",
+  "description": "Claude Code agent running 30+ compliance checks on React Native apps — permissions, secrets, ATT, IAP, ProGuard, Privacy Manifests — producing a prioritised severity report before store submission.",
+  "repository": "https://github.com/bharmalhusen/rn-prerelease-audit",
+  "version": "1.0.0",
+  "category": "testing",
+  "tags": ["react-native", "ios", "android", "app-store", "play-store", "audit", "compliance", "expo"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

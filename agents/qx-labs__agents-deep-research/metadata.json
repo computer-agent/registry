@@ -1,0 +1,15 @@
+{
+  "name": "agents-deep-research",
+  "author": "qx-labs",
+  "description": "Multi-agent iterative deep research assistant. Identifies knowledge gaps, selects tools, gathers findings in parallel, and writes comprehensive cited Markdown reports.",
+  "repository": "https://github.com/qx-labs/agents-deep-research",
+  "path": "",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["research", "deep-research", "multi-agent", "openai-agents-sdk", "web-search", "report-generation", "llm"],
+  "license": "Apache-2.0",
+  "model": "gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

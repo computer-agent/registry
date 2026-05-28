@@ -1,0 +1,14 @@
+{
+  "name": "superflow-builder",
+  "author": "shreehari-lyzr",
+  "description": "Designs, writes, and debugs superflow JSON workflows for the superflow engine — DAGs of code, HTTP, LLM, and HITL nodes.",
+  "repository": "https://github.com/shreehari-lyzr/superflow-builder",
+  "version": "1.1.0",
+  "category": "developer-tools",
+  "tags": ["lyzr", "workflow", "superflow", "dag", "hitl"],
+  "license": "MIT",
+  "model": "claude-opus-4-7",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

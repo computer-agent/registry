@@ -1,0 +1,13 @@
+{
+  "name": "integuru",
+  "author": "Integuru-AI",
+  "description": "AI agent that reverse-engineers internal platform APIs via HAR analysis, builds request dependency graphs, and generates runnable Python integration code — no official API needed.",
+  "repository": "https://github.com/computer-agent/Integuru",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["api-automation", "har-analysis", "reverse-engineering", "rpa", "integration", "dependency-graph", "openai", "gpt-4o", "unofficial-api", "code-generation"],
+  "license": "AGPL-3.0",
+  "model": "gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false
+}

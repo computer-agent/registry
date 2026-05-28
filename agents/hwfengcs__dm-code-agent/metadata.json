@@ -1,0 +1,14 @@
+{
+  "name": "dm-code-agent",
+  "author": "hwfengcs",
+  "description": "Local-first, auditable Python code-maintenance agent: ReAct + Planner + Reflexion + Critic + Self-Consistency + MCP, with full JSONL trace replay.",
+  "repository": "https://github.com/hwfengcs/DM-Code-Agent",
+  "version": "2.0.0",
+  "category": "developer-tools",
+  "tags": ["code-agent", "react-agent", "auditable", "trace-replay", "mcp", "reflexion", "benchmarking", "local-first", "python", "swe-bench"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

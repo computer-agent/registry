@@ -1,0 +1,15 @@
+{
+  "name": "deep-git",
+  "author": "zamalali",
+  "description": "LangGraph agent that deeply searches, re-ranks, and scores GitHub repos via ColBERT retrieval, cross-encoder reranking, and hardware-aware dependency filtering.",
+  "repository": "https://github.com/zamalali/DeepGit",
+  "path": "",
+  "version": "2.0.0",
+  "category": "research",
+  "tags": ["github", "search", "research", "langgraph", "colbert", "retrieval", "ranking", "open-source-discovery", "hardware-aware"],
+  "license": "Apache-2.0",
+  "model": "groq:deepseek-r1-distill-llama-70b",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

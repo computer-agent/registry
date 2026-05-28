@@ -1,0 +1,13 @@
+{
+  "name": "django-ai-assistant",
+  "author": "vintasoftware",
+  "description": "Django library for building LLM-powered AI assistants with tool calling, RAG, thread management, and auto-generated REST APIs via django-ninja. Supports OpenAI, Anthropic, and Google Gemini.",
+  "repository": "https://github.com/vintasoftware/django-ai-assistant",
+  "version": "0.4.0",
+  "category": "developer-tools",
+  "tags": ["django", "langchain", "openai", "anthropic", "rag", "tool-calling", "python", "rest-api"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false
+}

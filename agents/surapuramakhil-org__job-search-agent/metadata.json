@@ -1,0 +1,14 @@
+{
+  "name": "job-search-agent",
+  "author": "surapuramakhil-org",
+  "description": "Autonomous AI agent that searches job portals, screens listings against your resume, writes tailored cover letters, and submits applications at scale.",
+  "repository": "https://github.com/surapuramakhil-org/Job_search_agent",
+  "version": "1.0.0",
+  "category": "productivity",
+  "tags": ["job-search", "automation", "langchain", "llm", "cover-letter", "resume", "selenium", "ai-agent", "python", "recruitment"],
+  "license": "AGPL-3.0",
+  "model": "gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

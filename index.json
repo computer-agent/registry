@@ -60,7 +60,7 @@
       "icon": null,
       "banner": null,
       "github": {
-        "stars": 9,
+        "stars": 11,
         "forks": 4,
         "issues": 0,
         "language": null,
@@ -131,12 +131,12 @@
       "icon": null,
       "banner": null,
       "github": {
-        "stars": 5,
-        "forks": 1,
+        "stars": 6,
+        "forks": 2,
         "issues": 1,
         "language": null,
         "avatar": "https://avatars.githubusercontent.com/u/141219160?v=4",
-        "social_preview": "https://opengraph.githubassets.com/8816f073bc5c31dd6c13e0e8951658f5bee9db2f27c365858505bee062899d69/shreyas-lyzr/claude-law-firm",
+        "social_preview": "https://opengraph.githubassets.com/f6acbb2ceaac0da0994cf02dfcf108aead572ae16114a42286812e93351bb9a4/shreyas-lyzr/claude-law-firm",
         "description": null
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__claude-law-firm/README.md",
@@ -204,12 +204,12 @@
       "icon": null,
       "banner": null,
       "github": {
-        "stars": 5,
+        "stars": 6,
         "forks": 1,
         "issues": 0,
         "language": null,
         "avatar": "https://avatars.githubusercontent.com/u/141219160?v=4",
-        "social_preview": "https://opengraph.githubassets.com/4cb8b83173e6e36a1275d0dd9aff6c62d52f02beeeea46116efd313d83f0f4cd/shreyas-lyzr/exa-lead-gen-agent",
+        "social_preview": "https://opengraph.githubassets.com/f14ad27e84b2de295b50522044ded8dadd452c9d339cf6a79b356138f627defa/shreyas-lyzr/exa-lead-gen-agent",
         "description": null
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__exa-lead-gen-agent/README.md",
@@ -238,7 +238,7 @@
         "issues": 0,
         "language": null,
         "avatar": "https://avatars.githubusercontent.com/u/141219160?v=4",
-        "social_preview": "https://opengraph.githubassets.com/35978b1ac0a3c2c4c414e30a79e58409da0395789c1fbb26640879b040697315/shreyas-lyzr/framework-translator-agent",
+        "social_preview": "https://opengraph.githubassets.com/ce53ce886cf95cddcd22a90910fa7f7b16d6276a991361586c6d573f70c66a1b/shreyas-lyzr/framework-translator-agent",
         "description": null
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__framework-translator-agent/README.md",
@@ -270,12 +270,12 @@
       "icon": null,
       "banner": null,
       "github": {
-        "stars": 1,
+        "stars": 2,
         "forks": 0,
         "issues": 0,
         "language": null,
         "avatar": "https://avatars.githubusercontent.com/u/141219160?v=4",
-        "social_preview": "https://opengraph.githubassets.com/4e0274274c26e6bb0096d0646faa7ca78f0bbb8ae70b60404059b62fa6372d9a/shreyas-lyzr/gstack-agent",
+        "social_preview": "https://opengraph.githubassets.com/72d78f8e4599a3ede59b8c33fa45450d70148529fdaa4cac12b1380ec9ce7674/shreyas-lyzr/gstack-agent",
         "description": null
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__gstack-agent/README.md",
@@ -347,12 +347,12 @@
       "icon": null,
       "banner": null,
       "github": {
-        "stars": 21,
+        "stars": 22,
         "forks": 4,
         "issues": 0,
         "language": null,
         "avatar": "https://avatars.githubusercontent.com/u/141219160?v=4",
-        "social_preview": "https://opengraph.githubassets.com/74522942e6ca346d43693aa988d4959ee472398dbfb16cb122933666903bfdc0/shreyas-lyzr/quant-sim",
+        "social_preview": "https://opengraph.githubassets.com/1303f4636bae23588c29011a198dd48a6a7376273fadb91ea4ae6cc7971f0576/shreyas-lyzr/quant-sim",
         "description": "Institutional-grade prediction market simulation engine — Monte Carlo, importance sampling, particle filters, copula dependency modeling, and agent-based market microstructure"
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__quant-sim/README.md",
@@ -393,8 +393,42 @@
       },
       "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreyas-lyzr__skill-creator-agent/README.md",
       "added_at": "2026-03-04"
+    },
+    {
+      "name": "superflow-builder",
+      "author": "shreehari-lyzr",
+      "description": "Designs, writes, and debugs superflow JSON workflows for the superflow engine — DAGs of code, HTTP, LLM, and HITL nodes.",
+      "repository": "https://github.com/shreehari-lyzr/superflow-builder",
+      "version": "1.1.0",
+      "category": "developer-tools",
+      "tags": [
+        "lyzr",
+        "workflow",
+        "superflow",
+        "dag",
+        "hitl"
+      ],
+      "license": "MIT",
+      "model": "claude-opus-4-7",
+      "adapters": [
+        "claude-code",
+        "system-prompt"
+      ],
+      "icon": null,
+      "banner": null,
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "issues": 0,
+        "language": null,
+        "avatar": "https://avatars.githubusercontent.com/u/252998713?v=4",
+        "social_preview": "https://opengraph.githubassets.com/c31a02aa69179ad1928d25279a118796a2027d66c6d3ef75214824564e2b5d5b/shreehari-lyzr/superflow-builder",
+        "description": null
+      },
+      "readme": "https://raw.githubusercontent.com/open-gitagent/registry/main/agents/shreehari-lyzr__superflow-builder/README.md",
+      "added_at": "2026-05-28"
     }
   ],
-  "total": 11,
-  "generated_at": "2026-04-05T18:35:29.224Z"
+  "total": 12,
+  "generated_at": "2026-05-28T10:11:13.198Z"
 }

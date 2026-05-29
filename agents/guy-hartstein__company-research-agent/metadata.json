@@ -1,0 +1,15 @@
+{
+  "name": "company-research-agent",
+  "author": "guy-hartstein",
+  "description": "Multi-agent pipeline using LangGraph and Tavily to generate deep company research reports covering business, industry, financials, and news.",
+  "repository": "https://github.com/guy-hartstein/company-research-agent",
+  "path": "",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["langgraph", "tavily", "company-research", "multi-agent", "langchain", "gemini", "openai", "report-generation", "fastapi", "react"],
+  "license": "Apache-2.0",
+  "model": "google:gemini-2.5-flash",
+  "adapters": ["system-prompt"],
+  "icon": false,
+  "banner": false
+}

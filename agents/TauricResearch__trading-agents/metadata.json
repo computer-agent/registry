@@ -1,0 +1,14 @@
+{
+  "name": "trading-agents",
+  "author": "TauricResearch",
+  "description": "Multi-agent LLM framework simulating a trading firm: analysts, researchers, risk debators, and a portfolio manager collaborating to deliver BUY/HOLD/SELL decisions.",
+  "repository": "https://github.com/TauricResearch/TradingAgents",
+  "version": "0.2.5",
+  "category": "finance",
+  "tags": ["trading", "finance", "multi-agent", "llm", "langgraph", "equities", "risk-management", "sentiment-analysis", "technical-analysis", "fundamental-analysis"],
+  "license": "Apache-2.0",
+  "model": "openai:gpt-4o",
+  "adapters": ["system-prompt", "openai", "claude-code"],
+  "icon": false,
+  "banner": false
+}

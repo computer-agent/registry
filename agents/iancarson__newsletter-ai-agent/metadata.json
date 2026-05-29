@@ -1,0 +1,15 @@
+{
+  "name": "newsletter-ai-agent",
+  "author": "iancarson",
+  "description": "Claude-based newsletter co-writer: drafts issues, repurposes to Notes/LinkedIn/X, publishes via Substack MCP, and runs weekly batch prep. Confirms before every post.",
+  "repository": "https://github.com/iancarson/newsletter-ai-agent",
+  "path": "",
+  "version": "1.0.0",
+  "category": "productivity",
+  "tags": ["newsletter", "content-creation", "substack", "linkedin", "twitter", "mcp", "publishing", "writing", "automation", "social-media"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

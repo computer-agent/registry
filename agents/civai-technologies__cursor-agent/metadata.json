@@ -1,0 +1,13 @@
+{
+  "name": "cursor-agent",
+  "author": "civai-technologies",
+  "description": "Python AI coding agent replicating Cursor's assistant — code gen, file editing, search, and terminal tools via Claude, OpenAI, or Ollama. Extensible and permission-aware.",
+  "repository": "https://github.com/civai-technologies/cursor-agent",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["coding-assistant", "code-generation", "file-editing", "claude", "openai", "ollama", "cursor", "python", "function-calling", "multi-model"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false
+}

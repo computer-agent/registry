@@ -1,0 +1,15 @@
+{
+  "name": "home-assistant-vibecode-agent",
+  "author": "Coolver",
+  "description": "MCP server + AI agent enabling Claude Code, Cursor, and VS Code to safely build Home Assistant automations, dashboards, and configs via natural language.",
+  "repository": "https://github.com/Coolver/home-assistant-vibecode-agent",
+  "path": "",
+  "version": "2.10.47",
+  "category": "developer-tools",
+  "tags": ["home-assistant", "home-automation", "mcp", "claude-code", "cursor", "vscode", "iot", "smart-home", "automation", "vibecoding"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

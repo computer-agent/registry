@@ -1,0 +1,14 @@
+{
+  "name": "chipper",
+  "author": "TilmanGriesel",
+  "description": "Hackable, privacy-first RAG agent platform — local LLMs via Ollama, ElasticSearch vector store, doc chunking, web scraping, audio transcription, and an Ollama API proxy with server-side RAG injection.",
+  "repository": "https://github.com/computer-agent/chipper",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["rag", "ollama", "local-llm", "haystack", "elasticsearch", "privacy", "docker", "tinkerer", "knowledge-base", "ollama-proxy"],
+  "license": "MIT",
+  "model": "ollama:llama3",
+  "adapters": ["system-prompt", "openai"],
+  "icon": false,
+  "banner": false
+}

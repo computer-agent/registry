@@ -1,0 +1,14 @@
+{
+  "name": "aiden",
+  "author": "taracodlabs",
+  "description": "Local-first autonomous AI OS — 72 tools, 19 providers, browser/desktop/voice control, sub-agents, semantic memory. Runs on Windows/Linux/WSL.",
+  "repository": "https://github.com/taracodlabs/aiden",
+  "version": "4.10.0",
+  "category": "productivity",
+  "tags": ["autonomous-agent", "local-first", "desktop-control", "browser-automation", "multi-agent", "voice", "windows", "ollama", "typescript"],
+  "license": "AGPL-3.0-only",
+  "model": "groq:llama-3.3-70b",
+  "adapters": ["system-prompt"],
+  "icon": false,
+  "banner": false
+}

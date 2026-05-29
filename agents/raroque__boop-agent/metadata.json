@@ -1,0 +1,14 @@
+{
+  "name": "boop-agent",
+  "author": "raroque",
+  "description": "iMessage personal AI agent: dispatcher + sub-agents with tiered memory, automations, draft-and-confirm, and 1000+ Composio integrations.",
+  "repository": "https://github.com/raroque/boop-agent",
+  "version": "0.2.0",
+  "category": "productivity",
+  "tags": ["imessage", "personal-agent", "memory", "automations", "composio", "claude", "sub-agents"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

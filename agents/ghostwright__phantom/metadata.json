@@ -1,0 +1,14 @@
+{
+  "name": "phantom",
+  "author": "ghostwright",
+  "description": "Autonomous AI co-worker with its own VM: vector memory, self-evolution engine, MCP server (17+ tools), multi-channel comms (Slack/Telegram/Email/Web), and autonomous infrastructure building.",
+  "repository": "https://github.com/computer-agent/phantom",
+  "version": "0.20.2",
+  "category": "developer-tools",
+  "tags": ["autonomous-agent", "mcp-server", "self-evolving", "persistent-memory", "slack", "docker", "typescript", "claude-code", "infrastructure"],
+  "license": "Apache-2.0",
+  "model": "claude-opus-4-7",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

@@ -1,14 +1,13 @@
 {
   "name": "claude-agents-library",
   "author": "aiagentskit",
-  "description": "34 production-ready Claude agent configurations across 7 professional categories: design, engineering, marketing, product, project management, studio ops, and testing.",
+  "description": "34 production-ready Claude agent configs across 7 domains: engineering, marketing, design, product, project-management, studio-operations, and testing. Drop-in for Claude Code.",
   "repository": "https://github.com/aiagentskit/claude-agents-library",
   "version": "1.2.0",
-  "category": "productivity",
-  "tags": ["claude", "agents", "system-prompt", "engineering", "marketing", "design", "testing", "product", "devops"],
+  "category": "developer-tools",
+  "tags": ["claude", "agents", "system-prompt", "engineering", "marketing", "design", "testing", "product", "claude-code"],
   "license": "MIT",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "anthropic:claude-sonnet-4-6",
   "adapters": ["claude-code", "system-prompt"],
-  "icon": false,
-  "banner": false
+  "icon": false
 }

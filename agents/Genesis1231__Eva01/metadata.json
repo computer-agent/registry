@@ -1,0 +1,14 @@
+{
+  "name": "Eva01",
+  "author": "Genesis1231",
+  "description": "Eva01 is an autonomous AI being with intrinsic drives, layered cognition, mood state, and multimodal senses. Not an assistant — she has her own mind.",
+  "repository": "https://github.com/Genesis1231/Eva01",
+  "version": "1.0.0",
+  "category": "other",
+  "tags": ["autonomous-agent", "ai-persona", "multimodal", "voice", "vision", "mood", "langchain", "cognitive-architecture"],
+  "license": "MIT",
+  "model": "claude-opus-4-7",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

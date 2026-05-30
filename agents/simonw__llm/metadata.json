@@ -1,0 +1,13 @@
+{
+  "name": "llm",
+  "author": "simonw",
+  "description": "CLI tool and Python library to run prompts, chat, embed, use tools and extract schemas across OpenAI, Anthropic, Gemini, Ollama and dozens more LLMs.",
+  "repository": "https://github.com/simonw/llm",
+  "version": "0.32.0",
+  "category": "developer-tools",
+  "tags": ["cli", "llm", "openai", "anthropic", "gemini", "ollama", "embeddings", "tools", "python"],
+  "license": "Apache-2.0",
+  "model": "openai:gpt-4o-mini",
+  "adapters": ["system-prompt", "claude-code"],
+  "icon": false
+}

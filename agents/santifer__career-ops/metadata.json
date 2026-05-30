@@ -1,0 +1,15 @@
+{
+  "name": "career-ops",
+  "author": "santifer",
+  "description": "AI-powered job search pipeline: score offers A–G, generate tailored CVs, scan 45+ portals, track applications, prep interviews. 14 skill modes, multi-language (EN/DE/FR/JA).",
+  "repository": "https://github.com/santifer/career-ops",
+  "path": "",
+  "version": "1.0.0",
+  "category": "productivity",
+  "tags": ["job-search", "career", "cv-generation", "claude-code", "automation", "interview-prep", "resume", "recruiting", "ai-agent", "job-tracker"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

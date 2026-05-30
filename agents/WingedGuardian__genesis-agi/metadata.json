@@ -1,0 +1,13 @@
+{
+  "name": "genesis-agi",
+  "author": "WingedGuardian",
+  "description": "Autonomous AI agent with persistent 4-layer memory, closed-loop self-learning, background cognition, and an earned-autonomy framework. Powered by Claude Code.",
+  "repository": "https://github.com/WingedGuardian/GENesis-AGI",
+  "version": "3.0.0-beta",
+  "category": "productivity",
+  "tags": ["autonomous-agent", "persistent-memory", "self-learning", "claude-code", "cognitive-architecture", "background-cognition", "earned-autonomy", "agi"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false
+}

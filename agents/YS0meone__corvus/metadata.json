@@ -1,0 +1,14 @@
+{
+  "name": "corvus",
+  "author": "YS0meone",
+  "description": "Multi-agent AI research system — finds academic papers via semantic search & citation snowballing, then answers questions over them using agentic RAG.",
+  "repository": "https://github.com/YS0meone/Corvus",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["academic-research", "multi-agent", "langgraph", "rag", "citation-snowballing", "semantic-scholar", "paper-search", "qa"],
+  "license": "MIT",
+  "model": "google:gemini-2.0-flash",
+  "adapters": ["system-prompt"],
+  "icon": false,
+  "banner": false
+}

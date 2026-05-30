@@ -1,0 +1,14 @@
+{
+  "name": "corecoder",
+  "author": "he-yufeng",
+  "description": "Minimal AI coding agent (~1,400 lines Python) distilling Claude Code's architecture. Read in one afternoon, fork to build your own. Supports any OpenAI-compatible API.",
+  "repository": "https://github.com/he-yufeng/CoreCoder",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["coding-agent", "claude-code", "minimal", "educational", "python", "openai-compatible", "repl", "context-compression"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

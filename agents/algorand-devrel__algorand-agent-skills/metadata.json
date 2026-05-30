@@ -1,0 +1,15 @@
+{
+  "name": "algorand-agent-skills",
+  "author": "algorand-devrel",
+  "description": "Canonical agent skills for AI-assisted Algorand development: smart contracts, AVM patterns, AlgoKit tooling, TypeScript/Python lifecycle, React dApps, and x402 payments.",
+  "repository": "https://github.com/computer-agent/algorand-agent-skills",
+  "path": "",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["algorand", "blockchain", "smart-contracts", "algokit", "typescript", "python", "web3", "x402", "claude-code", "opencode"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "deep-research",
+  "author": "Cranot",
+  "description": "Fractal research agent: decomposes any question into recursive sub-questions, explores all angles in parallel with multiple LLMs, and synthesizes back into a comprehensive report.",
+  "repository": "https://github.com/Cranot/deep-research",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": [
+    "multi-agent",
+    "recursive",
+    "research",
+    "synthesis",
+    "claude",
+    "gemini",
+    "web-search",
+    "knowledge-graph",
+    "parallel-agents",
+    "fractal"
+  ],
+  "license": "MIT",
+  "model": "claude-opus-4-5",
+  "adapters": [
+    "claude-code",
+    "system-prompt"
+  ],
+  "icon": false,
+  "banner": false
+}

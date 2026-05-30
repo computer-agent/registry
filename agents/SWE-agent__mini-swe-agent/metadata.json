@@ -1,0 +1,15 @@
+{
+  "name": "mini-swe-agent",
+  "author": "SWE-agent",
+  "description": "A radically minimal AI software engineering agent (~100 lines) that resolves GitHub issues and CLI tasks via bash. >74% on SWE-bench Verified. No custom tools — just the shell.",
+  "repository": "https://github.com/SWE-agent/mini-swe-agent",
+  "path": "",
+  "version": "2.0.0",
+  "category": "developer-tools",
+  "tags": ["software-engineering", "swe-bench", "bash", "code-agent", "github-issues", "minimal", "litellm", "docker", "python", "autonomous"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

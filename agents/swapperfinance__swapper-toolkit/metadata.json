@@ -1,0 +1,13 @@
+{
+  "name": "swapper-toolkit",
+  "author": "swapperfinance",
+  "description": "DeFi payment toolkit for AI agents — deposit funds, bridge assets, and manage crypto wallets via fiat on-ramp, Chainlink CCIP, and 10+ chains.",
+  "repository": "https://github.com/swapperfinance/swapper-toolkit",
+  "version": "0.1.0",
+  "category": "finance",
+  "tags": ["defi", "crypto", "wallet", "web3", "blockchain", "chainlink", "fiat-on-ramp", "token-swap", "cross-chain", "payments"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false
+}

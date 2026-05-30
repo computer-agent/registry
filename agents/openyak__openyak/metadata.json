@@ -1,0 +1,15 @@
+{
+  "name": "openyak",
+  "author": "openyak",
+  "description": "Local-first AI agent workbench for desktop work — files, tools, long threads, multi-agent batches, and BYOK cloud or local models. No account required.",
+  "repository": "https://github.com/openyak/openyak",
+  "path": "",
+  "version": "1.0.0",
+  "category": "productivity",
+  "tags": ["local-first", "desktop-agent", "file-tools", "ollama", "byok", "multi-agent", "office-workflows", "privacy"],
+  "license": "Apache-2.0",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

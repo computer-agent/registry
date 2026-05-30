@@ -1,0 +1,13 @@
+{
+  "name": "agent-redteam",
+  "author": "fajarsajid",
+  "description": "Agentic LLM red-team harness: uses Claude to probe AI agent system prompts for identity abuse, credential exfiltration, and safety-boundary vulnerabilities.",
+  "repository": "https://github.com/fajarsajid/agent-redteam",
+  "version": "1.0.0",
+  "category": "security",
+  "tags": ["red-teaming", "security", "llm-security", "prompt-injection", "adversarial", "claude", "ai-safety", "vulnerability-assessment"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-20250514",
+  "adapters": ["system-prompt"],
+  "icon": false
+}

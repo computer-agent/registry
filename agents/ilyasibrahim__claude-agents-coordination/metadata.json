@@ -1,0 +1,14 @@
+{
+  "name": "claude-agents-coordination",
+  "author": "ilyasibrahim",
+  "description": "Production-grade multi-agent coordination for Claude Code: tiered delegation, dual-registry institutional memory, multi-level review chains, and explicit tech-debt tracking.",
+  "repository": "https://github.com/ilyasibrahim/claude-agents-coordination",
+  "version": "2.3.0",
+  "category": "developer-tools",
+  "tags": ["multi-agent", "claude-code", "coordination", "orchestration", "institutional-memory", "tech-debt", "code-review", "delegation"],
+  "license": "Unlicense",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

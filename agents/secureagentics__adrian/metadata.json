@@ -1,0 +1,14 @@
+{
+  "name": "adrian",
+  "author": "secureagentics",
+  "description": "Open-source runtime security monitor for AI agents — detects prompt injection, tool-call abuse, and policy drift by analysing both behaviour and reasoning traces.",
+  "repository": "https://github.com/secureagentics/Adrian",
+  "version": "1.0.0",
+  "category": "security",
+  "tags": ["runtime-security", "prompt-injection", "agent-monitoring", "policy-drift", "tool-auditing", "langchain", "langgraph", "mcp", "aarm", "self-hosted"],
+  "license": "Apache-2.0",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

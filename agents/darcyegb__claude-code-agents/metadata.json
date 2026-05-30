@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-agents",
+  "author": "darcyegb",
+  "description": "Seven specialized QA sub-agents for Claude Code: spec verification, reality-check, CLAUDE.md compliance, code-quality pragmatism, task validation, UI testing, and deep debugging.",
+  "repository": "https://github.com/computer-agent/ClaudeCodeAgents",
+  "path": "",
+  "version": "1.0.0",
+  "category": "testing",
+  "tags": ["qa", "code-quality", "verification", "claude-code", "debugging", "compliance", "testing"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

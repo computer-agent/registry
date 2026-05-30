@@ -1,0 +1,14 @@
+{
+  "name": "mbbb-baker-agent",
+  "author": "chefkannofriend-source",
+  "description": "Claude Code subagent for professional pastry recipe lookup, Baker's Percentage calculation, batch scaling, and pastry-science Q&A. Backed by a curated French+Chinese recipe library.",
+  "repository": "https://github.com/chefkannofriend-source/mbbb-baker-agent",
+  "version": "1.0.0",
+  "category": "education",
+  "tags": ["pastry", "baking", "recipes", "bakers-percentage", "culinary", "claude-code", "french", "chinese"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code"],
+  "icon": false,
+  "banner": false
+}

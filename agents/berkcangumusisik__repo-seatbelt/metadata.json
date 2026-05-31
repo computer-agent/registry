@@ -1,0 +1,15 @@
+{
+  "name": "repo-seatbelt",
+  "author": "berkcangumusisik",
+  "description": "A four-layer AI coding agent safety system: generates rule files for 8 tools, MCP runtime guardrail, pre-commit hook, and CI gate with AI Safety Score.",
+  "repository": "https://github.com/berkcangumusisik/repo-seatbelt",
+  "path": "",
+  "version": "1.1.0",
+  "category": "security",
+  "tags": ["ai-safety", "guardrails", "mcp", "claude-code", "cursor", "pre-commit", "github-actions", "developer-tools", "ai-agents", "security"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

@@ -1,0 +1,27 @@
+{
+  "name": "repair-agent",
+  "author": "sola-st",
+  "description": "Autonomous LLM-powered agent that fixes Java bugs without human intervention. Operates in a loop: localize, collect context, patch, test, iterate. ICSE 2025.",
+  "repository": "https://github.com/sola-st/RepairAgent",
+  "path": "",
+  "version": "0.6.5",
+  "category": "developer-tools",
+  "tags": [
+    "java",
+    "bug-repair",
+    "autonomous-agent",
+    "llm",
+    "program-repair",
+    "testing",
+    "openai",
+    "anthropic"
+  ],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": [
+    "claude-code",
+    "system-prompt"
+  ],
+  "icon": false,
+  "banner": false
+}

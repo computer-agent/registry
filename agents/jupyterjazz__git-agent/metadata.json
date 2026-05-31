@@ -1,0 +1,14 @@
+{
+  "name": "git-agent",
+  "author": "jupyterjazz",
+  "description": "Natural-language Git agent using LangChain + OpenAI function calling — stage files, diff, and restore changes by plain English instructions.",
+  "repository": "https://github.com/jupyterjazz/git-agent",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["git", "langchain", "openai", "natural-language", "cli", "developer-tools"],
+  "license": "MIT",
+  "model": "gpt-3.5-turbo-0613",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

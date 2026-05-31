@@ -1,0 +1,14 @@
+{
+  "name": "skillforge",
+  "author": "mmlong818",
+  "description": "Generates production-grade AI Agent Skill packages via a 7-step pipeline: analysis, architecture, metadata, SKILL.md body, quality audit, resource files, and usage docs.",
+  "repository": "https://github.com/mmlong818/skillforge",
+  "version": "1.4.0",
+  "category": "developer-tools",
+  "tags": ["skill-generator", "agent-skills", "prompt-engineering", "ai-agents", "claude", "anthropic", "pipeline", "code-generation"],
+  "license": "CC-BY-NC-SA-4.0",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

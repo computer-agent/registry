@@ -1,0 +1,15 @@
+{
+  "name": "awesome-claude-agents",
+  "author": "vijaythecoder",
+  "description": "Orchestrated team of 24+ Claude Code sub-agents — tech-lead routes every task to the right Django, Rails, Laravel, React, or Vue specialist automatically.",
+  "repository": "https://github.com/vijaythecoder/awesome-claude-agents",
+  "path": "",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["claude-code", "multi-agent", "orchestration", "django", "rails", "react", "vue", "laravel", "full-stack", "developer-tools"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "prompt-guard",
+  "author": "seojoonkim",
+  "description": "Advanced AI agent runtime security: 840+ prompt injection patterns, multi-language support, LLM-as-Judge semantic detection, output DLP, supply chain defense, and memory poisoning protection.",
+  "repository": "https://github.com/seojoonkim/prompt-guard",
+  "path": "",
+  "version": "3.7.0",
+  "category": "security",
+  "tags": ["security", "prompt-injection", "ai-safety", "runtime-security", "jailbreak-defense", "llm", "agent-security", "dlp", "supply-chain", "middleware"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sleepless-agent",
+  "author": "context-machine-lab",
+  "description": "24/7 AgentOS maximising Claude Code Pro usage: daemon accepts tasks via Slack/CLI, runs planner→worker→evaluator pipeline in isolated workspaces, auto-generates idle tasks, and commits results as PRs.",
+  "repository": "https://github.com/context-machine-lab/sleepless-agent",
+  "path": "",
+  "version": "0.1.2",
+  "category": "developer-tools",
+  "tags": ["claude-code", "automation", "daemon", "multi-agent", "slack", "git", "productivity", "agentOS", "scheduler", "workspace"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

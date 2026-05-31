@@ -1,0 +1,14 @@
+{
+  "name": "math-wiz",
+  "author": "tahreemrasul",
+  "description": "LangChain agent that solves arithmetic, logic/word problems, and knowledge questions using Calculator, Reasoning, and Wikipedia tools.",
+  "repository": "https://github.com/computer-agent/math_app_langchain",
+  "path": "",
+  "version": "1.0.0",
+  "category": "education",
+  "tags": ["math", "langchain", "reasoning", "openai", "calculator", "wikipedia", "chainlit", "education", "word-problems"],
+  "license": "MIT",
+  "model": "openai:gpt-3.5-turbo-instruct",
+  "adapters": ["system-prompt"],
+  "icon": false
+}

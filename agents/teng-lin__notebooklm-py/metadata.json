@@ -1,0 +1,15 @@
+{
+  "name": "notebooklm-py",
+  "author": "teng-lin",
+  "description": "Unofficial Python API & AI-agent skill for Google NotebookLM. Full programmatic access including batch downloads, quiz/flashcard export, mind maps, and multi-account support.",
+  "repository": "https://github.com/teng-lin/notebooklm-py",
+  "path": "",
+  "version": "0.7.0",
+  "category": "productivity",
+  "tags": ["notebooklm", "google", "research", "content-generation", "ai-agent", "skill", "claude-code", "podcast", "pdf", "automation"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

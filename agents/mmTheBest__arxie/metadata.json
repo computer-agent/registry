@@ -1,0 +1,13 @@
+{
+  "name": "arxie",
+  "author": "mmTheBest",
+  "description": "Self-hostable AI research agent that parses academic PDFs into a field-aware corpus, extracts structured evidence, and generates grounded research artifacts via RAG.",
+  "repository": "https://github.com/mmTheBest/arxie",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["research", "academic", "langchain", "rag", "arxiv", "literature-review", "hypothesis-generation", "semantic-scholar", "paper-search", "python"],
+  "license": "MIT",
+  "model": "gpt-4o-mini",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false
+}

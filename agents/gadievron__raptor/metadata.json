@@ -1,0 +1,15 @@
+{
+  "name": "raptor",
+  "author": "gadievron",
+  "description": "Autonomous offensive/defensive security research framework on Claude Code — chains static analysis, CodeQL, fuzzing, LLM-powered vuln validation, exploit generation, and patch writing.",
+  "repository": "https://github.com/computer-agent/raptor",
+  "path": "",
+  "version": "3.0.0",
+  "category": "security",
+  "tags": ["security", "penetration-testing", "vulnerability-research", "static-analysis", "fuzzing", "codeql", "exploit", "autonomous", "claude-code"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

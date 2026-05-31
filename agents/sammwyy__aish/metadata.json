@@ -1,0 +1,13 @@
+{
+  "name": "aish",
+  "author": "sammwyy",
+  "description": "AI-powered shell assistant that translates natural language into shell commands and file operations with per-operation approval, workspace context detection, and security controls.",
+  "repository": "https://github.com/sammwyy/aish",
+  "version": "0.1.0",
+  "category": "developer-tools",
+  "tags": ["shell", "cli", "rust", "natural-language", "terminal", "openai", "file-operations", "security"],
+  "license": "MIT",
+  "model": "openai:gpt-4",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "agent-council",
+  "author": "yogirk",
+  "description": "Convenes a panel of CLI AI agents (Claude, Codex, Gemini) to deliberate on engineering questions via structured multi-stage discussion and chairman synthesis.",
+  "repository": "https://github.com/yogirk/agent-council",
+  "path": "",
+  "version": "0.3.3",
+  "category": "developer-tools",
+  "tags": ["multi-agent", "deliberation", "claude-code", "codex", "gemini-cli", "engineering-decisions", "code-review", "architecture"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

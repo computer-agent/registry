@@ -1,0 +1,15 @@
+{
+  "name": "solana-claude",
+  "author": "solanabr",
+  "description": "Production-ready Claude Code config turning any LLM into an expert full-stack Solana developer — 15 sub-agents, 24 commands, 6 MCP integrations, security-first.",
+  "repository": "https://github.com/solanabr/solana-claude",
+  "path": "",
+  "version": "1.5.0",
+  "category": "developer-tools",
+  "tags": ["solana", "blockchain", "web3", "anchor", "rust", "defi", "claude-code", "smart-contracts", "pinocchio", "multi-agent"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

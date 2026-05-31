@@ -1,0 +1,13 @@
+{
+  "name": "ai-book-writer",
+  "author": "adamwlarson",
+  "description": "Collaborative multi-agent book-writing system: six AutoGen agents (Story Planner, Outline Creator, World Builder, Memory Keeper, Writer, Editor) generate full-length narratives from a single premise.",
+  "repository": "https://github.com/adamwlarson/ai-book-writer",
+  "version": "1.0.0",
+  "category": "creative",
+  "tags": ["book-writing", "autogen", "multi-agent", "creative-writing", "storytelling", "narrative", "world-building"],
+  "license": "MIT",
+  "model": "Mistral-Nemo-Instruct-2407",
+  "adapters": ["system-prompt"],
+  "icon": false
+}

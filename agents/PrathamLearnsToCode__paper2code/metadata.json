@@ -1,0 +1,14 @@
+{
+  "name": "paper2code",
+  "author": "PrathamLearnsToCode",
+  "description": "Converts any arxiv paper into a citation-anchored Python implementation — audits ambiguity, never silently fills gaps, cites every code decision back to the paper.",
+  "repository": "https://github.com/PrathamLearnsToCode/paper2code",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["arxiv", "machine-learning", "paper-implementation", "citation-anchored", "research", "pytorch"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}

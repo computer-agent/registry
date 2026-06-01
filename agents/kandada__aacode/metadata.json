@@ -1,0 +1,14 @@
+{
+  "name": "aacode",
+  "author": "kandada",
+  "description": "Lightweight, 100%-Python CLI coding agent on a ReAct loop — plans, writes, runs, and tests code autonomously. Provider-agnostic: DeepSeek, OpenAI, Claude, and more.",
+  "repository": "https://github.com/kandada/aacode",
+  "version": "1.7.8",
+  "category": "developer-tools",
+  "tags": ["coding-agent", "cli", "react-architecture", "deepseek", "openai", "anthropic", "python", "agentic-coding", "multi-provider", "sub-agents"],
+  "license": "GPL-3.0",
+  "model": "deepseek-chat",
+  "adapters": ["system-prompt", "openai", "claude-code"],
+  "icon": false,
+  "banner": false
+}

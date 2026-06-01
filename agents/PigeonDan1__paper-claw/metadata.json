@@ -1,0 +1,13 @@
+{
+  "name": "paper-claw",
+  "author": "PigeonDan1",
+  "description": "AI research digest agent: fetches arXiv papers, classifies by topic, generates multilingual summaries via DeepSeek/OpenAI/Claude, and emails daily digests.",
+  "repository": "https://github.com/PigeonDan1/paper_claw",
+  "version": "2.0.0",
+  "category": "research",
+  "tags": ["arxiv", "research", "papers", "digest", "nlp", "ai-agent", "email", "multilingual"],
+  "license": "MIT",
+  "model": "deepseek:deepseek-chat",
+  "adapters": ["system-prompt", "claude-code"],
+  "icon": false
+}

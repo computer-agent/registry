@@ -1,0 +1,14 @@
+{
+  "name": "claude-rename-agent",
+  "author": "omarshahine",
+  "description": "AI-powered file renaming agent that analyzes PDFs, images and text, classifies documents, and applies consistent pattern-based naming with learned templates.",
+  "repository": "https://github.com/computer-agent/claude-rename-agent",
+  "path": "",
+  "version": "0.1.0",
+  "category": "productivity",
+  "tags": ["file-management", "document-analysis", "automation", "renaming", "pdf", "pattern-learning", "claude-sdk", "batch-processing"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false
+}

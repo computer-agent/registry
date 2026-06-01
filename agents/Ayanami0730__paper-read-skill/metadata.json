@@ -1,0 +1,27 @@
+{
+  "name": "paper-read-skill",
+  "author": "Ayanami0730",
+  "description": "Deep analysis agent for academic papers and tech blogs. Auto-routes to type-specific frameworks for benchmark, methodology, survey/opinion papers and four blog categories.",
+  "repository": "https://github.com/Ayanami0730/paper-read-skill",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": [
+    "research",
+    "papers",
+    "academic",
+    "analysis",
+    "blog-reading",
+    "chinese",
+    "claude-code",
+    "cursor"
+  ],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": [
+    "claude-code",
+    "cursor",
+    "openai",
+    "system-prompt"
+  ],
+  "icon": false
+}

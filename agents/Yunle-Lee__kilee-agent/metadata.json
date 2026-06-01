@@ -1,0 +1,13 @@
+{
+  "name": "kilee-agent",
+  "author": "Yunle-Lee",
+  "description": "DeepSeek-powered terminal AI agent — reads files, runs shell commands, writes code, searches the web, and remembers facts across sessions.",
+  "repository": "https://github.com/Yunle-Lee/KiLee-agent",
+  "version": "0.3.0",
+  "category": "developer-tools",
+  "tags": ["terminal", "cli", "deepseek", "openai-compatible", "agentic", "file-management", "web-search", "persistent-memory"],
+  "license": "MIT",
+  "model": "deepseek-chat",
+  "adapters": ["system-prompt", "openai"],
+  "icon": false
+}

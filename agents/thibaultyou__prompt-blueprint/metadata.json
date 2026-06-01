@@ -1,0 +1,13 @@
+{
+  "name": "prompt-blueprint",
+  "author": "thibaultyou",
+  "description": "PromptCraft∞ Elite — a 7-stage professional prompt-engineering agent that turns simple requirements into production-ready, cross-model AI prompts with QA and benchmarks.",
+  "repository": "https://github.com/computer-agent/prompt-blueprint",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["prompt-engineering", "ai-agent", "cross-model", "gpt-4", "claude", "gemini", "productivity", "developer-tools"],
+  "license": "unlicensed",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false
+}

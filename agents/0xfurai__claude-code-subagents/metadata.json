@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-subagents",
+  "author": "0xfurai",
+  "description": "138+ production-ready domain-expert subagents for Claude Code — languages, frameworks, databases, DevOps, security, and more. Turns Claude Code into a full engineering team.",
+  "repository": "https://github.com/0xfurai/claude-code-subagents",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["claude-code", "subagents", "engineering", "python", "typescript", "devops", "security", "databases", "testing", "multi-agent"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-20250514",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false
+}

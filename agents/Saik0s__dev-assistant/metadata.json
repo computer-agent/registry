@@ -1,0 +1,13 @@
+{
+  "name": "dev-assistant",
+  "author": "Saik0s",
+  "description": "Task-driven autonomous agent that decomposes developer objectives into prioritised milestones, executes them with Python/Bash/file/web tools, and iterates until done.",
+  "repository": "https://github.com/Saik0s/DevAssistant",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["autonomous-agent", "task-driven", "langchain", "gpt-4", "code-generation", "bash", "file-io"],
+  "license": "MIT",
+  "model": "openai:gpt-4",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false
+}
